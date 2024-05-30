@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/iten1"
+        android:id="@+id/item1"
+        android:icon="@drawable/first"
+
+        />
+    <item android:title="@string/item"
+        android:id="@+id/item2"
+        android:icon="@drawable/piechart"
+        />
+    <item
+        android:id="@+id/item3"
+        android:title=""
+        />
+    <item android:title="@string/item2"
+        android:id="@+id/item4"
+        android:icon="@drawable/forth"
+        />
+    <item android:title="@string/item22"
+        android:id="@+id/item5"
+        android:icon="@drawable/fifth"/>
+</menu>
